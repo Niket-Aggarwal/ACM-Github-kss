@@ -7,4 +7,4 @@ This is my first commit on github.
 Hope to build connection and learns many skills in this journey.
 <BR>
 # 1
-first html is a sample html for learning git and github
+first html(i.e. acm.html) is a sample html for learning git and github
