@@ -1,0 +1,39 @@
+.cont{
+    background-color: blue;
+    display: flex;
+    justify-content:space-evenly;
+    border-radius: 10%;
+    border-color: black;
+    border-style: dotted;
+    height:500px;
+    width:500px;
+    align-items: center;
+    margin-left: 450px;
+    margin-top: 70px;
+
+}
+#boxone{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border:5px solid black;
+    padding: 5px;   
+    font-size: 20px;
+
+}
+#boxtwo{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border:5px solid black;
+    padding: 5px;   
+    font-size: 20px;
+}
+#boxthree{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border:5px solid black;
+    padding: 5px;   
+    font-size: 20px;
+}
