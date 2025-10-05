@@ -13,4 +13,4 @@ First html(i.e. acm.html) is a sample html for learning git and github
 Form and Timetable are the two html file of html kss assignment in this i have added style also as it is short so no other file is used.
 <br>
  # 3
- Both CSS .html and .css is the CSS kss assignment work
+ Both CSS .html and .css is the kss assignment of CSS lecture and two photos img.jpg and logo.jpg is used in it.
