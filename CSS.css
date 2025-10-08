@@ -9,7 +9,7 @@
 }
 .content{
     display: flex; 
-    gap: 8px;
+    gap: 9px;
 }
 #nav-button{
     font-weight: 700;
